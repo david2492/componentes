@@ -1,0 +1,46 @@
+.App {
+  display: block;
+  border-radius: 0.2rem;
+  justify-content: center;
+  margin: 11rem auto;
+  padding: 0 3rem 5rem 3rem;
+  background-color: white;
+  width: 30rem;
+  height: 10rem;
+  box-shadow: 5px 5px 8px rgba(0, 0, 0, 3);
+}
+.Container {
+  min-height: 164px;
+}
+.App p {
+  text-align: right;
+  font-style: italic;
+  font-size: 1rem;
+  margin-bottom: 0.2rem;
+}
+.App a {
+  text-align: right;
+  font-style: italic;
+  font-size: 1rem;
+}
+.App i {
+  font-size: 5rem;
+}
+.App button {
+  margin-left: 28rem;
+  border-radius: 50%;
+  border:none;
+  color: white;
+  width: 2rem;
+  height: 2rem;
+  box-shadow: 6px 1px 5px grey ;
+}
+.App button i{
+  font-size: 1.5rem;
+}
+
+
+
+
+
+
